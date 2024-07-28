@@ -1,0 +1,38 @@
+
+
+body{
+    background-color: #414b37;
+    color: white
+}
+
+.main_header{
+    color: #319191
+}
+
+
+ol li:nth-child(2n+1){
+    color: #19dbc4
+}
+#buttons_block{
+    padding: 20px;
+    border: 1px solid #eeeeee;
+    margin-bottom: 30px;
+}
+
+input[type = 'text']{
+    border: green solid 5px;
+}
+
+.test {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+    color: yellow;
+    font-size: 70px;
+}
+
+.test input {
+    background-color: #319191;
+    margin: 20px 0;
+    
+}
